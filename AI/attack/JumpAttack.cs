@@ -102,7 +102,7 @@ public class JumpAttack : MonoBehaviour
                 StartCoroutine(DelayJumping());
                 
             }
-            // obj stated jumping and durationOfdetection is ended(meaning can't find the player), go back to the first point of the path
+            // obj started jumping and durationOfdetection is ended(meaning can't find the player), go back to the first point of the path
             if (!pathFollowingController.GetValueOf_followPath() && detectionController.GetValue_Ended_durationOfdetection())
             {
                 pathFollowingController.SetNavDestination(true);
