@@ -54,10 +54,9 @@ public class PathFollowingController : MonoBehaviour
 
     void Start()
     {
-        // 이것들 나중에 한번 고치자 
-        animParameter_facingRight = Get_ParameterList();//////고쳐 이거
-        animParameter_movement = Get_ParameterList(); //////교쳐 이거
-        animParameterAtLastPoint = Get_TriggerParameterList(); /// 고쵸 이거
+        animParameter_facingRight = Get_ParameterList();/
+        animParameter_movement = Get_ParameterList(); 
+        animParameterAtLastPoint = Get_TriggerParameterList();
 
         script_movementController = GetComponent<MovementController>();
         animator = GetComponent<Animator>();
@@ -71,10 +70,9 @@ public class PathFollowingController : MonoBehaviour
 
     void FixedUpdate()
     {
-        // 이것들 나중에 한번 고치자
-        animParameter_facingRight = Get_ParameterList();//////////// 임시방편
-        animParameter_movement = Get_ParameterList();///////////////
-        animParameterAtLastPoint = Get_TriggerParameterList();//////////
+        animParameter_facingRight = Get_ParameterList();
+        animParameter_movement = Get_ParameterList();
+        animParameterAtLastPoint = Get_TriggerParameterList();
 
         animator.SetBool(animParameter_facingRight[index_name_facingRight], script_movementController.GetValue_facingRight());
         if (!delay && followPath)
