@@ -7,7 +7,7 @@
 
 - 플레이어를 감지할 몬스터의 중심 범위안에서 바라보는 방향을 기준으로 또 다른 범위를 만들어 플레이어를 감지할 수 있다.
 
-- 관련 코드: ([DetectionController](/Scripts/AI/DetectionController.cs)
+- 관련 코드: [DetectionController.cs](/Scripts/AI/DetectionController.cs)
 
 <img src = "https://github.com/ronick-grammer/PORTFOLIO_GAME_ProjectLimbo/blob/main/detectionController.gif" width="70%">
 
