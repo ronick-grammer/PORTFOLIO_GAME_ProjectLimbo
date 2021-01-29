@@ -28,9 +28,6 @@ public class PathFollowingController : MonoBehaviour
 
     int index;
 
-
-   // [HideInInspector]
-   // public bool retreived;
     [HideInInspector]
     public int parameterNum;
 
