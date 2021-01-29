@@ -12,6 +12,8 @@
 
 > ### [ AI ] 움직임 경로 컨트롤러
 
+![navigation](https://github.com/ronick-grammer/PORTFOLIO_GAME_ProjectLimbo/blob/main/navigation.gif)
+
 - 몬스터는 만들어진 경로를 따라 움직인다. 
 
 > ### [ Animation ] 타임라인(Timeline) 컨트롤러
