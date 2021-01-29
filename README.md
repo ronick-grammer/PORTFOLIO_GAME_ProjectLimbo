@@ -5,7 +5,7 @@
 
 > ### [ AI ] 플레이어 감지 컨트롤러
 
-![detectionController](https://user-images.githubusercontent.com/73280175/106105522-779a1d00-6187-11eb-9904-542b38814255.gif)
+![detectionController](https://github.com/ronick-grammer/PORTFOLIO_GAME_ProjectLimbo/blob/main/detectionController.gif)
 
 - 플레이어를 감지할 몬스터의 중심 범위안에서 바라보는 방향을 기준으로 또 다른 범위를 만들어 플레이어를 감지할 수 있다.
 
