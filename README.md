@@ -5,14 +5,14 @@
 
 > ### [ AI ] 플레이어 감지 컨트롤러
 
-![detectionController](https://github.com/ronick-grammer/PORTFOLIO_GAME_ProjectLimbo/blob/main/detectionController.gif)  {: width="300" height="300"}
+![detectionController](https://github.com/ronick-grammer/PORTFOLIO_GAME_ProjectLimbo/blob/main/detectionController.gif){: width="70%" height="70%"}
 
 - 플레이어를 감지할 몬스터의 중심 범위안에서 바라보는 방향을 기준으로 또 다른 범위를 만들어 플레이어를 감지할 수 있다.
 
 
 > ### [ AI ] 움직임 경로 컨트롤러
 
-![navigation](https://github.com/ronick-grammer/PORTFOLIO_GAME_ProjectLimbo/blob/main/navigation.gif)
+![navigation](https://github.com/ronick-grammer/PORTFOLIO_GAME_ProjectLimbo/blob/main/navigation.gif){: width="70%" height="70%"}
 
 - 몬스터는 만들어진 경로를 따라 움직인다. 
 
