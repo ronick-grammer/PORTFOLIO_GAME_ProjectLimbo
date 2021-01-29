@@ -19,7 +19,7 @@
 
 - 공격이 끝나면 path 의 시작점으로 돌아가 다시 경로를 따라 움직인다.
 
-- 관련 코드: [PathFollowingController](/Scripts/AI/PathFollowingController.cs)
+- 관련 코드: [PathFollowingController.cs](/Scripts/AI/PathFollowingController.cs)
 
 <img src = "https://github.com/ronick-grammer/PORTFOLIO_GAME_ProjectLimbo/blob/main/navigation.gif" width="70%">
 
