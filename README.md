@@ -3,6 +3,11 @@
 <img src = "https://github.com/ronick-grammer/PORTFOLIO_GAME_ProjectLimbo/blob/main/thumbnail_ProjectLimbo.jpg">
 
 
+> ## 트레일러
+
+<iframe width="900" height="506" src="https://www.youtube.com/embed/j1TXmgH3g4Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 > ## 주 구현 기능
 
 ### [ AI ] 플레이어 감지 컨트롤러
