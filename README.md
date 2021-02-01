@@ -3,6 +3,14 @@
 <img src = "https://github.com/ronick-grammer/PORTFOLIO_GAME_ProjectLimbo/blob/main/thumbnail_animation.gif">
 
 
+> ## 담담 역할
+
+- 기획
+
+- 프로그래밍
+
+- 3D 모델링
+
 > ## 주 구현 기능
 
 ### [ AI ] 플레이어 감지 컨트롤러
