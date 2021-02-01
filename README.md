@@ -23,7 +23,7 @@
 
 - 관련 코드: [PathFollowingController.cs](/Scripts/AI/PathFollowingController.cs)
 
-<img src = "https://github.com/ronick-grammer/PORTFOLIO_GAME_ProjectLimbo/blob/main/navigation.gif" width="70%">
+<img src = "https://github.com/ronick-grammer/PORTFOLIO_GAME_ProjectLimbo/blob/main/pathFollow.gif" width="70%">
 
 
 
