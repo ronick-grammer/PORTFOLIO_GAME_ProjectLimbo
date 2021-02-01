@@ -35,20 +35,18 @@
 
 
 
-### [ Animation ] 타임라인(Timeline) 컨트롤러
+### [ Animation, Dialogue ] 타임라인과 대화 시스템 컨트롤러
 
 - 본 게임에서 많은 부분을 차지 하는 애니메이션 씬을 유니티의 타임라인 기능을 통해서 작업하였다.
 
 - 타임라인을 보다 효과적으로 활용하기 위해 타임라인 컨트롤러 스크립트를 작업하였다.
 
-- 관련 코드: [TimeLineController.cs](/Scripts/TimeLineControl/TimeLineController.cs)
-
-
-
-### [ Dialogue ] 대화 시스템
-
 - 본 게임은 스토리를 포함하고 있기에 대화 시스템을 구현하였다.
 
 - 타임라인 컨트롤러와 서로 상호 연동을 할 수 있도록 하였다.
 
+
+- 관련 코드: [TimeLineController.cs](/Scripts/TimeLineControl/TimeLineController.cs)
 - 관련 코드: [DialogueSystemContoller.cs](/Scripts/DialogueControl/DialogueSystemContoller.cs)
+
+<img src = "https://github.com/ronick-grammer/PORTFOLIO_GAME_ProjectLimbo/blob/main/timelineNdialogue.gif" width="70%">
