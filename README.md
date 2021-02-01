@@ -3,9 +3,9 @@
 <img src = "https://github.com/ronick-grammer/PORTFOLIO_GAME_ProjectLimbo/blob/main/thumbnail_animation.gif">
 
 
-> ## 담담 역할
+> ## 담당 역할
 
-- 기획자: 김영현
+- 기획: 김영현
 
 - 프로그래밍: 김영현
 
