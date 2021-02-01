@@ -41,7 +41,8 @@
 
 - 타임라인을 보다 효과적으로 활용하기 위해 타임라인 컨트롤러 스크립트를 작업하였다.
 
-- 관련 코드: [DialogueSystemContoller.cs](/Scripts/DialogueControl/DialogueSystemContoller.cs)
+- 관련 코드: [TimeLineController.cs](/Scripts/TimeLineControl/TimeLineController.cs)
+
 
 
 ### [ Dialogue ] 대화 시스템
@@ -50,4 +51,4 @@
 
 - 타임라인 컨트롤러와 서로 상호 연동을 할 수 있도록 하였다.
 
-- 관련 코드: [TimeLineController.cs](/Scripts/TimeLineControl/TimeLineController.cs)
+- 관련 코드: [DialogueSystemContoller.cs](/Scripts/DialogueControl/DialogueSystemContoller.cs)
