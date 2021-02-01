@@ -1,6 +1,6 @@
 # Project Limbo
 
-<img src = "https://github.com/ronick-grammer/PORTFOLIO_GAME_ProjectLimbo/blob/main/thumbnail_ProjectLimbo.jpg">
+<img src = "https://github.com/ronick-grammer/PORTFOLIO_GAME_ProjectLimbo/blob/main/thumbnail_animation.gif">
 
 
 > ## 주 구현 기능
