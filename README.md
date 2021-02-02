@@ -4,7 +4,7 @@
 
 > ## 개발 환경 및 플랫폼 정보
 
-- 게임 엔진: Unity 3D <span class="badge badge-pill badge-primary">Primary</span>
+- 게임 엔진: Unity 3D
 
 - 스크립트 언어: C#
 
