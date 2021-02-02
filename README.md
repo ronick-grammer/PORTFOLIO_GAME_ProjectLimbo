@@ -2,6 +2,16 @@
 
 <img src = "https://github.com/ronick-grammer/PORTFOLIO_GAME_ProjectLimbo/blob/main/thumbnail_animation.gif">
 
+> ## 개발 환경 및 플랫폼 정보
+
+- 게임 엔진: Unity 3D
+
+- 스크립트 언어: C#
+
+- 3D 모델링 프로그램: MAYA 3D
+
+- 플랫폼: PC
+
 
 > ## 담당 역할
 
@@ -10,6 +20,7 @@
 - 프로그래밍: 김영현
 
 - 3D 모델링: 김영현
+
 
 > ## 주 구현 기능
 
