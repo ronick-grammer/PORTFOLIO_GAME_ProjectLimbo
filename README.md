@@ -31,7 +31,7 @@
 - 관련 코드: [DetectionController.cs](/Scripts/AI/DetectionController.cs)
 
 <img src = "https://github.com/ronick-grammer/PORTFOLIO_GAME_ProjectLimbo/blob/main/detectionController.gif" width="70%">
-
+<br><br>
 
 
 ### [ AI ] 움직임 경로 컨트롤러
@@ -43,7 +43,7 @@
 - 관련 코드: [PathFollowingController.cs](/Scripts/AI/PathFollowingController.cs)
 
 <img src = "https://github.com/ronick-grammer/PORTFOLIO_GAME_ProjectLimbo/blob/main/pathFollow.gif" width="70%">
-
+<br><br>
 
 
 ### [ Animation, Dialogue ] 타임라인과 대화 시스템 컨트롤러
@@ -55,7 +55,6 @@
 - 본 게임은 스토리를 포함하고 있기에 대화 시스템을 구현하였다.
 
 - 타임라인과 대화 시스템은 서로 상호 연동이 가능하도록 스크립트를 작성하였다.
-
 
 - 관련 코드: [TimeLineController.cs](/Scripts/TimeLineControl/TimeLineController.cs)
 - 관련 코드: [DialogueSystemContoller.cs](/Scripts/DialogueControl/DialogueSystemContoller.cs)
