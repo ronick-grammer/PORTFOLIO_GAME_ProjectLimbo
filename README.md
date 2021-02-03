@@ -4,11 +4,11 @@
 
 > ## 개발 환경 및 플랫폼 정보
 
-- 게임 엔진: Unity 3D
+- 게임 엔진: [Unity 3D](https://unity.com/)
 
-- 스크립트 언어: C#
+- 스크립트 언어: [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) 
 
-- 3D 모델링 프로그램: MAYA 3D
+- 3D 모델링 프로그램: [MAYA 3D](https://www.autodesk.co.kr/products/maya/overview?plc=MAYA&term=1-YEAR&support=ADVANCED&quantity=1#internal-link-maya-intro)
 
 - 플랫폼: PC
 <br>
