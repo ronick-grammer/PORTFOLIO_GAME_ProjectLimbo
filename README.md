@@ -8,7 +8,7 @@
 
 - 스크립트 언어: [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) 
 
-- 3D 모델링 프로그램: [MAYA 3D](https://www.autodesk.co.kr/products/maya/overview?plc=MAYA&term=1-YEAR&support=ADVANCED&quantity=1#internal-link-maya-intro)
+- 3D 모델링 프로그램: [Maya LT™ 3D](https://www.autodesk.co.kr/products/maya-lt/subscribe?plc=MAYALT&term=1-YEAR&support=ADVANCED&quantity=1)
 
 - 플랫폼: PC
 <br>
